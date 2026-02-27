@@ -1,2 +1,3 @@
-# lumtmc
-Info about LUMT, the only Minecraft list you'll need
+# hey there! 👋
+
+Welcome to the official organisation of [LUMT](https://lumt.qu30.qzz.io/)
